@@ -1,4 +1,4 @@
-# 🎬 Netflix Movie Recommendation System
+# 🎬 Netflix Movie Recommendation  System
 
 This project builds a movie recommendation system using **Collaborative Filtering** and **Matrix Factorization (SVD - Singular Value Decomposition)**. The dataset includes movie titles, genres, and IMDb scores, which are used to predict missing ratings and generate personalized movie recommendations for users.
 
