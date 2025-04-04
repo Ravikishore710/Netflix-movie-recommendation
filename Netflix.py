@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from sklearn import metrics
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import OneHotEncoder
